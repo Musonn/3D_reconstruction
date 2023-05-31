@@ -69,9 +69,13 @@ Create and project a UV image to apply texture to the mesh
 ## Credits
 
 open3d: http://www.open3d.org/
+
 point2mesh: https://github.com/ranahanocka/point2mesh
+
 pytorch3d: https://github.com/facebookresearch/pytorch3d/blob/main/docs/tutorials/deform_source_mesh_to_target_mesh.ipynb
+
 pyvista: https://docs.pyvista.org/version/stable/index.html
+
 NNNNNathan's blog: https://blog.csdn.net/qq_41366026?type=blog
 
 ## License

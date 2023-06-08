@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Musonn/3D_reconstruction/assets/43937020/1e7ac7ed-49b0-4101-8fc0-c931ca5d0398)
 
-Meshes reconstructed from downsampled pointclouds with 1. ball pivoting algorithm (BPA) 2. alpha shapes 3. poisson surface reconstruction 4. Point2Mesh, a deep learning model for reconstructing a surface mesh. 
+Meshes reconstructed from downsampled point clouds with 1. ball pivoting algorithm (BPA) 2. alpha shapes 3. poisson surface reconstruction 4. Point2Mesh, a deep learning model for reconstructing a surface mesh. 
 
 ## Installation
 You need also point2mesh and pytorch3d to successfully run this software. 
